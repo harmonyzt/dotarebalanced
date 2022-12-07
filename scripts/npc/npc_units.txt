@@ -1863,7 +1863,7 @@
 		//----------------------------------------------------------------
 		
 		"Ability1"					"creep_siege"			// Ability 1.
-		"Ability2"					""			// Ability 2.
+		"Ability2"					"slark_essence_shift"			// Ability 2.
 		"Ability3"					""			// Ability 3.
 		"Ability4"					""			// Ability 4.
 		"Ability5"					""			// Ability 5.
@@ -1892,7 +1892,7 @@
 
 		// Attributes
 		//----------------------------------------------------------------
-		"AttributePrimary"			"DOTA_ATTRIBUTE_STRENGTH"
+		"AttributePrimary"			"DOTA_ATTRIBUTE_AGILTY"
 		"AttributeBaseStrength"		"0"			// Base strength
 		"AttributeStrengthGain"		"0"			// Strength bonus per level.
 		"AttributeBaseIntelligence"	"0"			// Base intelligence
@@ -1962,7 +1962,7 @@
 		//----------------------------------------------------------------
 		
 		"Ability1"					"creep_siege"			// Ability 1.
-		"Ability2"					""			// Ability 2.
+		"Ability2"					"slark_essence_shift"			// Ability 2.
 		"Ability3"					""			// Ability 3.
 		"Ability4"					""			// Ability 4.
 		"Ability5"					""			// Ability 5.
@@ -1991,7 +1991,7 @@
 
 		// Attributes
 		//----------------------------------------------------------------
-		"AttributePrimary"			"DOTA_ATTRIBUTE_STRENGTH"
+		"AttributePrimary"			"DOTA_ATTRIBUTE_AGILTY"
 		"AttributeBaseStrength"		"0"			// Base strength
 		"AttributeStrengthGain"		"0"			// Strength bonus per level.
 		"AttributeBaseIntelligence"	"0"			// Base intelligence
@@ -2061,7 +2061,7 @@
 		//----------------------------------------------------------------
 		
 		"Ability1"					"creep_siege"			// Ability 1.
-		"Ability2"					""			// Ability 2.
+		"Ability2"					"slark_essence_shift"			// Ability 2.
 		"Ability3"					""			// Ability 3.
 		"Ability4"					""			// Ability 4.
 		"Ability5"					""			// Ability 5.
@@ -2090,7 +2090,7 @@
 
 		// Attributes
 		//----------------------------------------------------------------
-		"AttributePrimary"			"DOTA_ATTRIBUTE_STRENGTH"
+		"AttributePrimary"			"DOTA_ATTRIBUTE_AGILTY"
 		"AttributeBaseStrength"		"0"			// Base strength
 		"AttributeStrengthGain"		"0"			// Strength bonus per level.
 		"AttributeBaseIntelligence"	"0"			// Base intelligence
@@ -2161,7 +2161,7 @@
 		
 		"Ability1"					"backdoor_protection"			// Ability 1.
 		"Ability2"					"creep_siege"			// Ability 2.
-		"Ability3"					""			// Ability 3.
+		"Ability3"					"slark_essence_shift"			// Ability 3.
 		"Ability4"					""			// Ability 4.
 		"Ability5"					""			// Ability 5.
 		"Ability6"					""			// Ability 6 - Extra.
@@ -2189,7 +2189,7 @@
 
 		// Attributes
 		//----------------------------------------------------------------
-		"AttributePrimary"			"DOTA_ATTRIBUTE_STRENGTH"
+		"AttributePrimary"			"DOTA_ATTRIBUTE_AGILTY"
 		"AttributeBaseStrength"		"0"			// Base strength
 		"AttributeStrengthGain"		"0"			// Strength bonus per level.
 		"AttributeBaseIntelligence"	"0"			// Base intelligence
@@ -2260,7 +2260,7 @@
 		
 		"Ability1"					"backdoor_protection"			// Ability 1.
 		"Ability2"					"creep_siege"			// Ability 2.
-		"Ability3"					""			// Ability 3.
+		"Ability3"					"slark_essence_shift"			// Ability 3.
 		"Ability4"					""			// Ability 4.
 		"Ability5"					""			// Ability 5.
 		"Ability6"					""			// Ability 6 - Extra.
@@ -2288,7 +2288,7 @@
 
 		// Attributes
 		//----------------------------------------------------------------
-		"AttributePrimary"			"DOTA_ATTRIBUTE_STRENGTH"
+		"AttributePrimary"			"DOTA_ATTRIBUTE_AGILTY"
 		"AttributeBaseStrength"		"0"			// Base strength
 		"AttributeStrengthGain"		"0"			// Strength bonus per level.
 		"AttributeBaseIntelligence"	"0"			// Base intelligence
@@ -2360,7 +2360,7 @@
 		
 		"Ability1"					"backdoor_protection"			// Ability 1.
 		"Ability2"					"creep_siege"			// Ability 2.
-		"Ability3"					""			// Ability 3.
+		"Ability3"					"slark_essence_shift"			// Ability 3.
 		"Ability4"					""			// Ability 4.
 		"Ability5"					""			// Ability 5.
 		"Ability6"					""			// Ability 6 - Extra.
@@ -2388,7 +2388,7 @@
 
 		// Attributes
 		//----------------------------------------------------------------
-		"AttributePrimary"			"DOTA_ATTRIBUTE_STRENGTH"
+		"AttributePrimary"			"DOTA_ATTRIBUTE_AGILTY"
 		"AttributeBaseStrength"		"0"			// Base strength
 		"AttributeStrengthGain"		"0"			// Strength bonus per level.
 		"AttributeBaseIntelligence"	"0"			// Base intelligence
@@ -2460,7 +2460,7 @@
 		
 		"Ability1"					"backdoor_protection_in_base"			// Ability 1.
 		"Ability2"					"creep_siege"			// Ability 2.
-		"Ability3"					""			// Ability 3.
+		"Ability3"					"slark_essence_shift"			// Ability 3.
 		"Ability4"					""			// Ability 4.
 		"Ability5"					""			// Ability 5.
 		"Ability6"					""			// Ability 6 - Extra.
@@ -2488,7 +2488,7 @@
 
 		// Attributes
 		//----------------------------------------------------------------
-		"AttributePrimary"			"DOTA_ATTRIBUTE_STRENGTH"
+		"AttributePrimary"			"DOTA_ATTRIBUTE_AGILTY"
 		"AttributeBaseStrength"		"0"			// Base strength
 		"AttributeStrengthGain"		"0"			// Strength bonus per level.
 		"AttributeBaseIntelligence"	"0"			// Base intelligence
@@ -2558,7 +2558,7 @@
 		
 		"Ability1"					"backdoor_protection_in_base"			// Ability 1.
 		"Ability2"					"creep_siege"			// Ability 2.
-		"Ability3"					""			// Ability 3.
+		"Ability3"					"slark_essence_shift"			// Ability 3.
 		"Ability4"					""			// Ability 4.
 		"Ability5"					""			// Ability 5.
 		"Ability6"					""			// Ability 6 - Extra.
@@ -2586,7 +2586,7 @@
 
 		// Attributes
 		//----------------------------------------------------------------
-		"AttributePrimary"			"DOTA_ATTRIBUTE_STRENGTH"
+		"AttributePrimary"			"DOTA_ATTRIBUTE_AGILTY"
 		"AttributeBaseStrength"		"0"			// Base strength
 		"AttributeStrengthGain"		"0"			// Strength bonus per level.
 		"AttributeBaseIntelligence"	"0"			// Base intelligence
@@ -2657,7 +2657,7 @@
 		
 		"Ability1"					"backdoor_protection_in_base"			// Ability 1.
 		"Ability2"					"creep_siege"			// Ability 2.
-		"Ability3"					""			// Ability 3.
+		"Ability3"					"slark_essence_shift"			// Ability 3.
 		"Ability4"					""			// Ability 4.
 		"Ability5"					""			// Ability 5.
 		"Ability6"					""			// Ability 6 - Extra.
@@ -2685,7 +2685,7 @@
 
 		// Attributes
 		//----------------------------------------------------------------
-		"AttributePrimary"			"DOTA_ATTRIBUTE_STRENGTH"
+		"AttributePrimary"			"DOTA_ATTRIBUTE_AGILTY"
 		"AttributeBaseStrength"		"0"			// Base strength
 		"AttributeStrengthGain"		"0"			// Strength bonus per level.
 		"AttributeBaseIntelligence"	"0"			// Base intelligence
@@ -2757,7 +2757,7 @@
 		
 		"Ability1"					"backdoor_protection_in_base"			// Ability 1.
 		"Ability2"					"creep_siege"			// Ability 2.
-		"Ability3"					""			// Ability 3.
+		"Ability3"					"slark_essence_shift"			// Ability 3.
 		"Ability4"					""			// Ability 4.
 		"Ability5"					""			// Ability 5.
 		"Ability6"					""			// Ability 6 - Extra.
@@ -2785,7 +2785,7 @@
 
 		// Attributes
 		//----------------------------------------------------------------
-		"AttributePrimary"			"DOTA_ATTRIBUTE_STRENGTH"
+		"AttributePrimary"			"DOTA_ATTRIBUTE_AGILTY"
 		"AttributeBaseStrength"		"0"			// Base strength
 		"AttributeStrengthGain"		"0"			// Strength bonus per level.
 		"AttributeBaseIntelligence"	"0"			// Base intelligence
@@ -2856,7 +2856,7 @@
 		//----------------------------------------------------------------
 		
 		"Ability1"					"creep_siege"			// Ability 1.
-		"Ability2"					""			// Ability 2.
+		"Ability2"					"slark_essence_shift"			// Ability 2.
 		"Ability3"					""			// Ability 3.
 		"Ability4"					""			// Ability 4.
 		"Ability5"					""			// Ability 5.
@@ -2885,7 +2885,7 @@
 
 		// Attributes
 		//----------------------------------------------------------------
-		"AttributePrimary"			"DOTA_ATTRIBUTE_STRENGTH"
+		"AttributePrimary"			"DOTA_ATTRIBUTE_AGILTY"
 		"AttributeBaseStrength"		"0"			// Base strength
 		"AttributeStrengthGain"		"0"			// Strength bonus per level.
 		"AttributeBaseIntelligence"	"0"			// Base intelligence
@@ -2955,7 +2955,7 @@
 		//----------------------------------------------------------------
 		
 		"Ability1"					"creep_siege"			// Ability 1.
-		"Ability2"					""			// Ability 2.
+		"Ability2"					"slark_essence_shift"			// Ability 2.
 		"Ability3"					""			// Ability 3.
 		"Ability4"					""			// Ability 4.
 		"Ability5"					""			// Ability 5.
@@ -2984,7 +2984,7 @@
 
 		// Attributes
 		//----------------------------------------------------------------
-		"AttributePrimary"			"DOTA_ATTRIBUTE_STRENGTH"
+		"AttributePrimary"			"DOTA_ATTRIBUTE_AGILTY"
 		"AttributeBaseStrength"		"0"			// Base strength
 		"AttributeStrengthGain"		"0"			// Strength bonus per level.
 		"AttributeBaseIntelligence"	"0"			// Base intelligence
@@ -3053,7 +3053,7 @@
 		//----------------------------------------------------------------
 		
 		"Ability1"					"creep_siege"			// Ability 1.
-		"Ability2"					""			// Ability 2.
+		"Ability2"					"slark_essence_shift"			// Ability 2.
 		"Ability3"					""			// Ability 3.
 		"Ability4"					""			// Ability 4.
 		"Ability5"					""			// Ability 5.
@@ -3082,7 +3082,7 @@
 
 		// Attributes
 		//----------------------------------------------------------------
-		"AttributePrimary"			"DOTA_ATTRIBUTE_STRENGTH"
+		"AttributePrimary"			"DOTA_ATTRIBUTE_AGILTY"
 		"AttributeBaseStrength"		"0"			// Base strength
 		"AttributeStrengthGain"		"0"			// Strength bonus per level.
 		"AttributeBaseIntelligence"	"0"			// Base intelligence
@@ -3153,7 +3153,7 @@
 		
 		"Ability1"					"backdoor_protection"			// Ability 1.
 		"Ability2"					"creep_siege"			// Ability 2.
-		"Ability3"					""			// Ability 3.
+		"Ability3"					"slark_essence_shift"			// Ability 3.
 		"Ability4"					""			// Ability 4.
 		"Ability5"					""			// Ability 5.
 		"Ability6"					""			// Ability 6 - Extra.
@@ -3181,7 +3181,7 @@
 
 		// Attributes
 		//----------------------------------------------------------------
-		"AttributePrimary"			"DOTA_ATTRIBUTE_STRENGTH"
+		"AttributePrimary"			"DOTA_ATTRIBUTE_AGILTY"
 		"AttributeBaseStrength"		"0"			// Base strength
 		"AttributeStrengthGain"		"0"			// Strength bonus per level.
 		"AttributeBaseIntelligence"	"0"			// Base intelligence
@@ -3252,7 +3252,7 @@
 		
 		"Ability1"					"backdoor_protection"			// Ability 1.
 		"Ability2"					"creep_siege"			// Ability 2.
-		"Ability3"					""			// Ability 3.
+		"Ability3"					"slark_essence_shift"			// Ability 3.
 		"Ability4"					""			// Ability 4.
 		"Ability5"					""			// Ability 5.
 		"Ability6"					""			// Ability 6 - Extra.
@@ -3280,7 +3280,7 @@
 
 		// Attributes
 		//----------------------------------------------------------------
-		"AttributePrimary"			"DOTA_ATTRIBUTE_STRENGTH"
+		"AttributePrimary"			"DOTA_ATTRIBUTE_AGILTY"
 		"AttributeBaseStrength"		"0"			// Base strength
 		"AttributeStrengthGain"		"0"			// Strength bonus per level.
 		"AttributeBaseIntelligence"	"0"			// Base intelligence
@@ -3351,7 +3351,7 @@
 		
 		"Ability1"					"backdoor_protection"			// Ability 1.
 		"Ability2"					"creep_siege"			// Ability 2.
-		"Ability3"					""			// Ability 3.
+		"Ability3"					"slark_essence_shift"			// Ability 3.
 		"Ability4"					""			// Ability 4.
 		"Ability5"					""			// Ability 5.
 		"Ability6"					""			// Ability 6 - Extra.
@@ -3379,7 +3379,7 @@
 
 		// Attributes
 		//----------------------------------------------------------------
-		"AttributePrimary"			"DOTA_ATTRIBUTE_STRENGTH"
+		"AttributePrimary"			"DOTA_ATTRIBUTE_AGILTY"
 		"AttributeBaseStrength"		"0"			// Base strength
 		"AttributeStrengthGain"		"0"			// Strength bonus per level.
 		"AttributeBaseIntelligence"	"0"			// Base intelligence
@@ -3450,7 +3450,7 @@
 		
 		"Ability1"					"backdoor_protection_in_base"			// Ability 1.
 		"Ability2"					"creep_siege"			// Ability 2.
-		"Ability3"					""			// Ability 3.
+		"Ability3"					"slark_essence_shift"			// Ability 3.
 		"Ability4"					""			// Ability 4.
 		"Ability5"					""			// Ability 5.
 		"Ability6"					""			// Ability 6 - Extra.
@@ -3478,7 +3478,7 @@
 
 		// Attributes
 		//----------------------------------------------------------------
-		"AttributePrimary"			"DOTA_ATTRIBUTE_STRENGTH"
+		"AttributePrimary"			"DOTA_ATTRIBUTE_AGILTY"
 		"AttributeBaseStrength"		"0"			// Base strength
 		"AttributeStrengthGain"		"0"			// Strength bonus per level.
 		"AttributeBaseIntelligence"	"0"			// Base intelligence
@@ -3549,7 +3549,7 @@
 		
 		"Ability1"					"backdoor_protection_in_base"			// Ability 1.
 		"Ability2"					"creep_siege"			// Ability 2.
-		"Ability3"					""			// Ability 3.
+		"Ability3"					"slark_essence_shift"			// Ability 3.
 		"Ability4"					""			// Ability 4.
 		"Ability5"					""			// Ability 5.
 		"Ability6"					""			// Ability 6 - Extra.
@@ -3577,7 +3577,7 @@
 
 		// Attributes
 		//----------------------------------------------------------------
-		"AttributePrimary"			"DOTA_ATTRIBUTE_STRENGTH"
+		"AttributePrimary"			"DOTA_ATTRIBUTE_AGILTY"
 		"AttributeBaseStrength"		"0"			// Base strength
 		"AttributeStrengthGain"		"0"			// Strength bonus per level.
 		"AttributeBaseIntelligence"	"0"			// Base intelligence
@@ -3648,7 +3648,7 @@
 		
 		"Ability1"					"backdoor_protection_in_base"			// Ability 1.
 		"Ability2"					"creep_siege"			// Ability 2.
-		"Ability3"					""			// Ability 3.
+		"Ability3"					"slark_essence_shift"			// Ability 3.
 		"Ability4"					""			// Ability 4.
 		"Ability5"					""			// Ability 5.
 		"Ability6"					""			// Ability 6 - Extra.
@@ -3676,7 +3676,7 @@
 
 		// Attributes
 		//----------------------------------------------------------------
-		"AttributePrimary"			"DOTA_ATTRIBUTE_STRENGTH"
+		"AttributePrimary"			"DOTA_ATTRIBUTE_AGILTY"
 		"AttributeBaseStrength"		"0"			// Base strength
 		"AttributeStrengthGain"		"0"			// Strength bonus per level.
 		"AttributeBaseIntelligence"	"0"			// Base intelligence
@@ -3747,7 +3747,7 @@
 		
 		"Ability1"					"backdoor_protection_in_base"			// Ability 1.
 		"Ability2"					"creep_siege"			// Ability 2.
-		"Ability3"					""			// Ability 3.
+		"Ability3"					"slark_essence_shift"			// Ability 3.
 		"Ability4"					""			// Ability 4.
 		"Ability5"					""			// Ability 5.
 		"Ability6"					""			// Ability 6 - Extra.
@@ -3775,7 +3775,7 @@
 
 		// Attributes
 		//----------------------------------------------------------------
-		"AttributePrimary"			"DOTA_ATTRIBUTE_STRENGTH"
+		"AttributePrimary"			"DOTA_ATTRIBUTE_AGILTY"
 		"AttributeBaseStrength"		"0"			// Base strength
 		"AttributeStrengthGain"		"0"			// Strength bonus per level.
 		"AttributeBaseIntelligence"	"0"			// Base intelligence

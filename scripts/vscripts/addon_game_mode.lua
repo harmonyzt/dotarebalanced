@@ -34,3 +34,19 @@ function CAddonTemplateGameMode:OnThink()
 	end
 	return 1
 end
+
+function RandomHeroThink ()
+	local player0 = PlayerResource:GetPlayer(0)
+	if player0 then
+	  PlayerResource:SetHasRepicked(0)
+	  player0:MakeRandomHeroSelection()
+	else
+	  return 0.5
+	end
+  end
+  
+  function Activate ()
+	GameRules:GetGameModeEntity():SetThink(RandomHeroThink, "RAND")
+  end
+
+  
