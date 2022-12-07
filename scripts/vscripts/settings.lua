@@ -2,20 +2,20 @@
 USE_DEBUG = false                       -- Should we print statements on almost every function/event call? For debugging.
 
 ENABLE_HERO_RESPAWN = true              -- Should the heroes automatically respawn on a timer or stay dead until manually respawned
-UNIVERSAL_SHOP_MODE = false             -- Should the shops contain all items?
+UNIVERSAL_SHOP_MODE = true             -- Should the shops contain all items?
 ALLOW_SAME_HERO_SELECTION = false       -- Should we let people select the same hero as each other
 LOCK_TEAMS = false                      -- Should we Lock (true) or unlock (false) team assignemnt. If team assignment is locked players cannot change teams.
 
-CUSTOM_GAME_SETUP_TIME = 25.0           -- How long should custom game setup last - the screen where players pick a team?
-HERO_SELECTION_TIME = 30.0              -- How long should we let people select their hero? Should be at least 5 seconds.
-HERO_SELECTION_PENALTY_TIME = 30.0      -- How long should the penalty time for not picking a hero last? During this time player loses gold.
-ENABLE_BANNING_PHASE = false            -- Should we enable banning phase? Set to true if "EnablePickRules" is "1" in 'addoninfo.txt'
-BANNING_PHASE_TIME = 20.0               -- How long should the banning phase last? This will work only if "EnablePickRules" is "1" in 'addoninfo.txt'
+CUSTOM_GAME_SETUP_TIME = 20.0           -- How long should custom game setup last - the screen where players pick a team?
+HERO_SELECTION_TIME = 20.0              -- How long should we let people select their hero? Should be at least 5 seconds.
+HERO_SELECTION_PENALTY_TIME = 25.0      -- How long should the penalty time for not picking a hero last? During this time player loses gold.
+ENABLE_BANNING_PHASE = true            -- Should we enable banning phase? Set to true if "EnablePickRules" is "1" in 'addoninfo.txt'
+BANNING_PHASE_TIME = 10.0               -- How long should the banning phase last? This will work only if "EnablePickRules" is "1" in 'addoninfo.txt'
 STRATEGY_TIME = 20.0                    -- How long should strategy time last? Bug: You can buy items during strategy time and it will not be spent!
 SHOWCASE_TIME = 12.0                    -- How long should show case time be?
-PRE_GAME_TIME = 90.0                    -- How long after showcase time should the horn blow and the game start?
-POST_GAME_TIME = 60.0                   -- How long should we let people stay around before closing the server automatically?
-TREE_REGROW_TIME = 300.0                -- How long should it take individual trees to respawn after being cut down/destroyed?
+PRE_GAME_TIME = 30.0                    -- How long after showcase time should the horn blow and the game start?
+POST_GAME_TIME = 300.0                   -- How long should we let people stay around before closing the server automatically?
+TREE_REGROW_TIME = 600.0                -- How long should it take individual trees to respawn after being cut down/destroyed?
 
 --GOLD_PER_TICK = 100                     -- How much gold should players get per tick? SetGoldTickTime DOESN'T WORK
 --GOLD_TICK_TIME = 1.0                    -- How long should we wait in seconds between gold ticks? SetGoldPerTick DOESN'T WORK
@@ -60,7 +60,7 @@ ENABLE_TOWER_BACKDOOR_PROTECTION = true -- Should we enable backdoor protection 
 --REMOVE_ILLUSIONS_ON_DEATH = false       -- Should we remove all illusions if the main hero dies? DOESN'T WORK
 DISABLE_GOLD_SOUNDS = false             -- Should we disable the gold sound when players acquire gold?
 
-END_GAME_ON_KILLS = false               -- Should the game end after a certain number of kills?
+END_GAME_ON_KILLS = true               -- Should the game end after a certain number of kills?
 KILLS_TO_END_GAME_FOR_TEAM = 100        -- How many kills for a team should signify an end of game?
 
 USE_CUSTOM_XP_VALUES = false            -- Should we use custom XP values to level up heroes, or the default Dota numbers?
@@ -124,9 +124,9 @@ if MAX_LEVEL > 25 then
 end
 
 FOUNTAIN_CONSTANT_MANA_REGEN = -1       -- What should we use for the constant fountain mana regen?  Use -1 to keep the default dota behavior.
-FOUNTAIN_PERCENTAGE_MANA_REGEN = -1     -- What should we use for the percentage fountain mana regen?  Use -1 to keep the default dota behavior.
-FOUNTAIN_PERCENTAGE_HEALTH_REGEN = -1   -- What should we use for the percentage fountain health regen?  Use -1 to keep the default dota behavior.
-MAXIMUM_ATTACK_SPEED = 700              -- What should we use for the maximum attack speed?
+FOUNTAIN_PERCENTAGE_MANA_REGEN = 20     -- What should we use for the percentage fountain mana regen?  Use -1 to keep the default dota behavior.
+FOUNTAIN_PERCENTAGE_HEALTH_REGEN = 20   -- What should we use for the percentage fountain health regen?  Use -1 to keep the default dota behavior.
+MAXIMUM_ATTACK_SPEED = 800              -- What should we use for the maximum attack speed?
 MINIMUM_ATTACK_SPEED = 10               -- What should we use for the minimum attack speed?
 
 DISABLE_DAY_NIGHT_CYCLE = false         -- Should we disable the day night cycle from naturally occurring? (Manual adjustment still possible)
