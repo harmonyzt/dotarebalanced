@@ -21442,11 +21442,11 @@
 				"special_bonus_unique_ancient_apparition_2"		"+80"
 			}
 			"slow"					"100"
-			"duration"				"0.7 0.8 0.9 1"
+			"duration"				"0.3 0.5 0.7 0.9"
 			"attack_range_bonus"
 			{
-				"value"				"60 120 180 240"
-				"special_bonus_unique_ancient_apparition_7"		"+200"
+				"value"				"60 120 180 220"
+				"special_bonus_unique_ancient_apparition_7"		"+140"
 			}
 			"AbilityManaCost"
 			{
@@ -27599,7 +27599,7 @@
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
 		"AbilityUnitTargetTeam"			"DOTA_UNIT_TARGET_TEAM_ENEMY"
 		"AbilityUnitTargetType"			"DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
-		"AbilityUnitDamageType"			"DAMAGE_TYPE_MAGICAL"
+		"AbilityUnitDamageType"			"DAMAGE_TYPE_PHYSICAL"
 		"SpellImmunityType"				"SPELL_IMMUNITY_ENEMIES_NO"
 		"SpellDispellableType"			"SPELL_DISPELLABLE_YES_STRONG"
 		"FightRecapLevel"				"1"
@@ -27608,12 +27608,12 @@
 
 		// Casting
 		//-------------------------------------------------------------------------------------------------------------
-		"AbilityCastRange"				"475"
-		"AbilityCastPoint"				"0.45"
+		"AbilityCastRange"				"500"
+		"AbilityCastPoint"				"0.35"
 		
 		// Time		
 		//-------------------------------------------------------------------------------------------------------------
-		"AbilityCooldown"				"11 10 9 8"
+		"AbilityCooldown"				"15 10 9 8"
 
 		// Cost
 		//-------------------------------------------------------------------------------------------------------------
@@ -27627,7 +27627,7 @@
 			"01"
 			{
 				"var_type"			"FIELD_FLOAT"
-				"stun_duration"		"1.5"
+				"stun_duration"		"1.0"
 			}
 
 			"02"
@@ -27638,7 +27638,7 @@
 			"03"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"fireblast_damage"		"70 130 190 250"
+				"fireblast_damage"		"70 130 190 200"
 				"LinkedSpecialBonus"	"special_bonus_unique_ogre_magi_2"
 			}
 		}
@@ -27729,7 +27729,7 @@
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_HIDDEN | DOTA_ABILITY_BEHAVIOR_SHOW_IN_GUIDES"
 		"AbilityUnitTargetTeam"			"DOTA_UNIT_TARGET_TEAM_ENEMY"
 		"AbilityUnitTargetType"			"DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
-		"AbilityUnitDamageType"			"DAMAGE_TYPE_MAGICAL"
+		"AbilityUnitDamageType"			"DAMAGE_TYPE_PHYSICAL"
 		"SpellImmunityType"				"SPELL_IMMUNITY_ENEMIES_NO"
 		"SpellDispellableType"			"SPELL_DISPELLABLE_YES_STRONG"
 		"MaxLevel"						"1"
@@ -27738,12 +27738,12 @@
 		// Casting
 		//-------------------------------------------------------------------------------------------------------------
 		"AbilityCastRange"				"475"
-		"AbilityCastPoint"				"0.45"
+		"AbilityCastPoint"				"0.35"
 		"AbilityCastAnimation"			"ACT_DOTA_CAST_ABILITY_4"
 		
 		// Time		
 		//-------------------------------------------------------------------------------------------------------------
-		"AbilityCooldown"				"6"
+		"AbilityCooldown"				"10"
 
 		// Cost
 		//-------------------------------------------------------------------------------------------------------------
@@ -27774,7 +27774,7 @@
 			"04"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"fireblast_damage"		"275"
+				"fireblast_damage"		"200"
 			}
 		}
 	}
@@ -27951,7 +27951,7 @@
 			"03"
 			{
 				"var_type"				"FIELD_FLOAT"
-				"multicast_4_times"		"0 0 15"
+				"multicast_4_times"		"0 0 20"
 			}
 		}
 	}

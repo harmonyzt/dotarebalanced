@@ -6119,7 +6119,7 @@
 		//----------------------------------------------------------------
 		
 		"Ability1"					"creep_siege"			// Ability 1.
-		"Ability2"					""			// Ability 2.
+		"Ability2"					"essense_shift"			// Ability 2.
 		"Ability3"					""			// Ability 3.
 		"Ability4"					""			// Ability 4.
 		"Ability5"					""			// Ability 5.
@@ -6130,7 +6130,7 @@
 		// Armor
 		//----------------------------------------------------------------
 		"ArmorPhysical"				"0"			// Physical protection.
-		"MagicalResistance"				"0"			// Magical protection.
+		"MagicalResistance"			"0"			// Magical protection.
 
 		// Attack
 		//----------------------------------------------------------------

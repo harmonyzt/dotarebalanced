@@ -11,8 +11,10 @@
     "npc_dota_hero_clockwerk"           "1"
     "npc_dota_hero_dawnbreaker"         "1"
     "npc_dota_hero_doom_bringer"        "1"
+    "npc_dota_hero_ogre_magi"           "1"
     // AGILTY
     "npc_dota_hero_viper"               "1"
     "npc_dota_hero_antimage"            "1"
     // INT
+    "npc_dota_hero_ancient_apparition"  "1"
 }
