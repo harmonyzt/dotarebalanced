@@ -17,7 +17,7 @@ PRE_GAME_TIME = 30.0                    -- How long after showcase time should t
 POST_GAME_TIME = 300.0                   -- How long should we let people stay around before closing the server automatically?
 TREE_REGROW_TIME = 600.0                -- How long should it take individual trees to respawn after being cut down/destroyed?
 
---GOLD_PER_TICK = 100                     -- How much gold should players get per tick? SetGoldTickTime DOESN'T WORK
+GOLD_PER_TICK = 2                     -- How much gold should players get per tick? SetGoldTickTime DOESN'T WORK
 --GOLD_TICK_TIME = 1.0                    -- How long should we wait in seconds between gold ticks? SetGoldPerTick DOESN'T WORK
 --ADDITIONAL_GPM = 100                    -- Uncomment this if you want additional gold per minute beside default
 
