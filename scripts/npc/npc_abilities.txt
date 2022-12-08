@@ -684,7 +684,7 @@
 		"AbilityUnitDamageType"			"DAMAGE_TYPE_PURE"	
 		"SpellDispellableType"			"SPELL_DISPELLABLE_YES"
 		"FightRecapLevel"				"2"
-		"MaxLevel"						"4"
+		"MaxLevel"						"3"
 
 
 		"AbilitySound"					"Hero_Axe.Culling_Blade_Success"
@@ -14397,7 +14397,7 @@
 		// Casting
 		//-------------------------------------------------------------------------------------------------------------
 		"AbilityCastPoint"				"0.1"
-		"AbilityCastRange"				"375"
+		"AbilityCastRange"				"475"
 
 		// Time		
 		//-------------------------------------------------------------------------------------------------------------
@@ -14405,7 +14405,7 @@
 		
 		// Cost
 		//-------------------------------------------------------------------------------------------------------------
-		"AbilityManaCost"				"75"
+		"AbilityManaCost"				"110"
 		
 	
 		// Special
@@ -15507,13 +15507,13 @@
 
 		// Cost
 		//-------------------------------------------------------------------------------------------------------------
-		"AbilityManaCost"				"90"
+		"AbilityManaCost"				"120"
 		
 		// Special
 		//-------------------------------------------------------------------------------------------------------------
 		"AbilityValues"
 		{
-			"buff_duration"					"13"
+			"buff_duration"					"10"
 			"bonus_movement_speed"			"0"
 			"bonus_attack_speed"			"250"
 			"debuff_duration"				"3"
@@ -15544,7 +15544,7 @@
 
 		// Time		
 		//-------------------------------------------------------------------------------------------------------------
-		"AbilityCooldown"				"24 22 20 18"
+		"AbilityCooldown"				"24 22 20 15"
 
 		// Cost
 		//-------------------------------------------------------------------------------------------------------------
@@ -15594,7 +15594,7 @@
 
 		// Casting
 		//-------------------------------------------------------------------------------------------------------------
-		"AbilityCastPoint"				"0.2"
+		"AbilityCastPoint"				"0.4"
 		
 		// Time		
 		//-------------------------------------------------------------------------------------------------------------
@@ -15602,13 +15602,13 @@
 		
 		// Cost
 		//-------------------------------------------------------------------------------------------------------------
-		"AbilityManaCost"				"80"
+		"AbilityManaCost"				"100 80 70 65"
 		
 		// Special
 		//-------------------------------------------------------------------------------------------------------------
 		"AbilityValues"
 		{
-			"duration"			"5.0 6.0 7.0 8.0"
+			"duration"			"5.0 6.0 7.0 7.5"
 			"damage"
 			{
 				"value"			"50 125 200 275"
@@ -15622,14 +15622,14 @@
 			"attacks_to_destroy"	
 			{
 				"value"					"2"
-				"special_bonus_unique_clockwerk_5"		"+2"
+				"special_bonus_unique_clockwerk_5"		"+1"
 			}
 			"push_length"		"300"
 			"push_duration"		"1"
 			"cogs_radius"			"215"
 			"trigger_distance"			"185"
 			"extra_pull_buffer"			"-10"
-			"bonus_armor"		"0"
+			"bonus_armor"		"3"
 			"leash"			
 			{
 				"value"			"0"
@@ -15720,7 +15720,7 @@
 		// Casting
 		//-------------------------------------------------------------------------------------------------------------
 		"AbilityCastPoint"				"0.3 0.3 0.3 0.3"
-		"AbilityCastRange"				"2000 2500 3000"
+		"AbilityCastRange"				"2000 2500 2700"
 		"AbilityCastAnimation"			"ACT_DOTA_CAST_ABILITY_4"
 		
 		// Time		
@@ -21107,7 +21107,7 @@
 		//-------------------------------------------------------------------------------------------------------------
 		"ID"							"5341"														// unique ID number for this ability.  Do not change this once established or it will invalidate collected stats.
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_AUTOCAST | DOTA_ABILITY_BEHAVIOR_ATTACK"
-		"AbilityUnitDamageType"			"DAMAGE_TYPE_MAGICAL"	
+		"AbilityUnitDamageType"			"DAMAGE_TYPE_PURE"	
 		"AbilityUnitTargetTeam"			"DOTA_UNIT_TARGET_TEAM_ENEMY"
 		"AbilityUnitTargetType"			"DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
 		"SpellImmunityType"				"SPELL_IMMUNITY_ENEMIES_NO"
@@ -21118,7 +21118,7 @@
 
 		// Time		
 		//-------------------------------------------------------------------------------------------------------------
-		"AbilityCooldown"				"16 12 8 4"
+		"AbilityCooldown"				"25 20 10 4"
 		"AbilityManaCost"				"40"
 		"AbilityCastRange"				"200"
 		"AbilityCastPoint"				"0.0 0.0 0.0 0.0"
@@ -21232,7 +21232,7 @@
 			"scepter_aura_radius"
 			{
 				"value"										"0"
-				"special_bonus_scepter"						"+325"
+				"special_bonus_scepter"						"+270"
 			}
 			
 		}
