@@ -26664,11 +26664,11 @@
 		
 		// Time		
 		//-------------------------------------------------------------------------------------------------------------
-		"AbilityCooldown"				"15 13 12 10"
+		"AbilityCooldown"				"20 18 15 10"
 
 		// Cost
 		//-------------------------------------------------------------------------------------------------------------
-		"AbilityManaCost"				"150 140 120 100"
+		"AbilityManaCost"				"150 140 120 90"
 
 		// Special
 		//-------------------------------------------------------------------------------------------------------------
@@ -26688,7 +26688,7 @@
 			"03"
 			{
 				"var_type"				"FIELD_FLOAT"
-				"stun_max"				"2.2 2.8 3.4 4"
+				"stun_max"				"2.2 2.8 3.4 3.8"
 				"LinkedSpecialBonus"		"special_bonus_unique_chaos_knight_3"
 			}
 			"04"
@@ -26709,13 +26709,13 @@
 			"07"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"shard_bonus_cast_range"		"150"
+				"shard_bonus_cast_range"		"100"
 				"RequiresShard"				"1"
 			}
 			"08"
 			{
 				"var_type"						"FIELD_FLOAT"
-				"shard_illusion_duration"		"6.0"
+				"shard_illusion_duration"		"5.0"
 				"RequiresShard"					"1"
 			}
 		}
@@ -26771,7 +26771,7 @@
 			"03"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"armor_reduction"			"4 5 6 7"
+				"armor_reduction"			"4 5 6 8"
 			}		
 			"04"
 			{
@@ -26800,18 +26800,18 @@
 		{
 				"chance"				
 				{
-						"value"				"33.33"
+						"value"				"10.0 15.0 20.0 30.0"
 						"LinkedSpecialBonus"		"special_bonus_unique_chaos_knight_5"
 				}
-				"crit_min"				"125"
+				"crit_min"				"50 100 140 200"
 				"crit_max"				"140 175 210 245"
 				"lifesteal"					
 				{
-					"value"					"20 30 40 50"
+					"value"					"20 30 40 45"
 					"LinkedSpecialBonus"		"special_bonus_unique_chaos_knight_6"
 				}
 
-				"creep_multiplier"					"1.5"
+				"creep_multiplier"					"1.4"
 		}
 		"AbilityCastAnimation"		"ACT_DOTA_CAST_ABILITY_3"
 	}

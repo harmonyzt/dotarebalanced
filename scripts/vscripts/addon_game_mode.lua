@@ -4,14 +4,14 @@
 if barebones == nil then
 	_G.barebones = class({})
 else
-	DebugPrint("[BAREBONES] barebones class name is already in use, change the name if this is the first time you launch the game!")
-	DebugPrint("[BAREBONES] If this is not your first time, you probably used script_reload in console.")
+	DebugPrint("[Dota Rebalanced] barebones class name is already in use, change the name if this is the first time you launch the game!")
+	DebugPrint("[Dota Rebalanced] If this is not your first time, you probably used script_reload in console.")
 end
 
 require('util')
 require('libraries/timers')                      -- Core lua library
 require('libraries/player_resource')             -- Core lua library
-require('gamemode')                              -- Core barebones file
+require('gamemode')                              -- Core file
 
 function Precache(context)
 --[[
@@ -24,7 +24,7 @@ function Precache(context)
   See GameMode:PostLoadPrecache() in gamemode.lua for more information
   ]]
 
-	DebugPrint("[BAREBONES] Performing pre-load precache")
+	DebugPrint("[Dota Rebalanced] Performing pre-load precache")
 
 	-- Particles can be precached individually or by folder
 	-- It it likely that precaching a single particle system will precache all of its children, but this may not be guaranteed
@@ -57,7 +57,7 @@ end
 
 -- Create the game mode when we activate
 function Activate()
-	DebugPrint("[BAREBONES] Activating ...")
-	print("Your custom game is activating.")
+	DebugPrint("[Dota Rebalanced] Activating ...")
+	print("Dota Rebalanced is activating...")
 	barebones:InitGameMode()
 end

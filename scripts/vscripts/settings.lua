@@ -24,7 +24,7 @@ TREE_REGROW_TIME = 600.0                -- How long should it take individual tr
 NORMAL_START_GOLD = 600                 -- Starting Gold
 
 RECOMMENDED_BUILDS_DISABLED = false     -- Should we disable the recommended item builds for heroes? Turns the panel for showing recommended items at the shop off/on.
-CAMERA_DISTANCE_OVERRIDE = 1134.0       -- How far out should we allow the camera to go? 1134 is the default in Dota.
+CAMERA_DISTANCE_OVERRIDE = 1300.0       -- How far out should we allow the camera to go? 1134 is the default in Dota.
 
 MINIMAP_ICON_SIZE = 1                   -- What icon size should we use for our heroes?
 MINIMAP_CREEP_ICON_SIZE = 1             -- What icon size should we use for creeps?
@@ -64,7 +64,7 @@ END_GAME_ON_KILLS = true               -- Should the game end after a certain nu
 KILLS_TO_END_GAME_FOR_TEAM = 100        -- How many kills for a team should signify an end of game?
 
 USE_CUSTOM_XP_VALUES = false            -- Should we use custom XP values to level up heroes, or the default Dota numbers?
-MAX_LEVEL = 30                          -- What level should we let heroes get to? (USE_CUSTOM_XP_VALUES must be true).
+MAX_LEVEL = 35                          -- What level should we let heroes get to? (USE_CUSTOM_XP_VALUES must be true).
 -- NOTE: MAX_LEVEL and XP_PER_LEVEL_TABLE will not work if USE_CUSTOM_XP_VALUES is false or nil.
 
 -- Fill this table up with the required XP per level if you want to change it
