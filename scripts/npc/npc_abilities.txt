@@ -226,13 +226,13 @@
 		"AbilityValues"
 		{
 			"percent_damage_per_burn"		"50"
-			"mana_per_hit"			"28 40 52 64"
+			"mana_per_hit"			"30 40 50 60"
 			"mana_per_hit_pct"		
 			{
 				"value"		"1 1.8 2.6 3.4"
 				"special_bonus_unique_antimage_7"	"+0.6"
 			}
-			"illusion_percentage"		"50"
+			"illusion_percentage"		"40"
 			"move_slow"				"25 30 35 40"
 			"slow_duration"			"0.75"
 		}
@@ -272,12 +272,12 @@
 		{
 				"AbilityCooldown"				
 				{
-					"value"			"12 10 8 6"
+					"value"			"12 11 9 7"
 					"special_bonus_unique_antimage"	"-1"
 				}
 				"AbilityCastRange"			
 				{
-					"value"					"750 900 1050 1200"
+					"value"					"750 900 950 1000"
 					"special_bonus_unique_antimage_3"	"+250"
 				}
 				"min_blink_range"		"200"
@@ -334,11 +334,11 @@
 
 		// Time		
 		//-------------------------------------------------------------------------------------------------------------
-		"AbilityCooldown"				"15 11 7 3"
+		"AbilityCooldown"				"15 11 7 5"
 
 		// Cost
 		//-------------------------------------------------------------------------------------------------------------
-		"AbilityManaCost"				"45"		
+		"AbilityManaCost"				"65"		
 
 		// Special
 		//-------------------------------------------------------------------------------------------------------------
@@ -346,8 +346,8 @@
 		{
 			"magic_resistance"			
 			{
-				"value"			"15 25 35 45"
-				"special_bonus_unique_antimage_4"	"+20"
+				"value"			"15 25 35 40"
+				"special_bonus_unique_antimage_4"	"+10"
 			}
 			"duration"					"1.2"
 			"shard_radius"				
@@ -364,7 +364,7 @@
 			}
 			"shard_bonus_spell_damage_reduction_pct"				
 			{
-				"special_bonus_shard"		"+30"
+				"special_bonus_shard"		"+20"
 			}
 			
 		}
@@ -415,7 +415,7 @@
 			"AbilityCooldown"				
 			{
 				"value"			"70"
-				"special_bonus_unique_antimage_2"	"-50"
+				"special_bonus_unique_antimage_2"	"-30"
 			}
 			"mana_void_damage_per_mana"		
 			{
@@ -461,7 +461,7 @@
 		// Time		
 		//-------------------------------------------------------------------------------------------------------------
 		"AbilityCooldown"				"0"
-		"AbilityCharges"				"3"
+		"AbilityCharges"				"2"
 		"AbilityChargeRestoreTime"		"25"
 
 		// Cost
@@ -472,9 +472,9 @@
 		//-------------------------------------------------------------------------------------------------------------
 		"AbilityValues"
 		{
-			"duration"				"7"
-			"outgoing_damage"			"-25"
-			"incoming_damage"			"100"
+			"duration"				"5"
+			"outgoing_damage"			"-30"
+			"incoming_damage"			"150"
 		}
 	}
 	

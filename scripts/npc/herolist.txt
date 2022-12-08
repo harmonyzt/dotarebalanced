@@ -1,7 +1,7 @@
 "CustomHeroList"
 {
+    // STRENGH
     "npc_dota_hero_abaddon"             "1"
-    "npc_dota_hero_viper"               "1"
     "npc_dota_hero_axe"                 "1"
     "npc_dota_hero_beastmaster"         "1"
     "npc_dota_hero_brewmaster"          "1"
@@ -11,4 +11,8 @@
     "npc_dota_hero_clockwerk"           "1"
     "npc_dota_hero_dawnbreaker"         "1"
     "npc_dota_hero_doom_bringer"        "1"
+    // AGILTY
+    "npc_dota_hero_viper"               "1"
+    "npc_dota_hero_antimage"            "1"
+    // INT
 }
