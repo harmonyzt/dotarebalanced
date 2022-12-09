@@ -4,7 +4,7 @@
 	{
 		"drop_rates"
 		{
-			"7:00"
+			"5:00"
 			{
 				"0" "14"
 				"1" "14"
@@ -40,7 +40,7 @@
 	{
 		"drop_rates"
 		{
-			"17:00"
+			"8:00"
 			{
 				"0" "10"
 				"1" "10"
@@ -75,7 +75,7 @@
 	{
 		"drop_rates"
 		{
-			"27:00"
+			"15:00"
 			{
 				"0" "10"
 				"1" "10"
@@ -108,7 +108,7 @@
 	{	
 		"drop_rates"
 		{
-			"37:00"
+			"20:00"
 			{
 				"0" "10"
 				"1" "10"
@@ -144,7 +144,7 @@
 	{
 		"drop_rates"
 		{
-			"60:00"
+			"30:00"
 			{
 				"0" "10"
 				"1" "10"
@@ -162,7 +162,7 @@
 			"item_mirror_shield"			  	  "1"
 			"item_apex"					  "1"
 			//"item_ballista"					  "1"
-			//"item_demonicon"				  "1"
+			"item_demonicon"				  "1"
 			"item_fallen_sky"		  	  "1"
 			"item_force_field"				  "1"
 			"item_pirate_hat"				  "1"

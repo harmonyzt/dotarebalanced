@@ -6108,7 +6108,6 @@
 	"dota_fountain"
 	{
 		// General
-		//
 		"BaseClass"					"ent_dota_fountain"	// Class of entity of link to.
 		"Model"						"models/props_structures/dire_fountain002.vmdl"	// Model.
 		"SoundSet"					"dota_fountain"					// Name of sound set.
@@ -6135,8 +6134,8 @@
 		// Attack
 		//----------------------------------------------------------------
 		"AttackCapabilities"		"DOTA_UNIT_CAP_RANGED_ATTACK"
-		"AttackDamageMin"			"290"		// Damage range min.
-		"AttackDamageMax"			"310"		// Damage range max.
+		"AttackDamageMin"			"350"		// Damage range min.
+		"AttackDamageMax"			"400"		// Damage range max.
 		"AttackDamageType"			"DAMAGE_TYPE_ArmorPhysical"
 		"AttackRate"				"0.15"		// Speed of attack.
 		"AttackAnimationPoint"		"0.0"		// Normalized time in animation cycle to attack.
@@ -10765,7 +10764,7 @@
 		// Movement
 		//----------------------------------------------------------------
 		"MovementCapabilities"		"DOTA_UNIT_CAP_MOVE_GROUND"			// Type of locomotion - ground, air
-		"MovementSpeed"				"290"		// Speed
+		"MovementSpeed"				"3000"		// Speed
 		"MovementTurnRate"			"0.5"		// Turning rate.
 	
 		// Bounty
@@ -10789,8 +10788,8 @@
 		
 		// Vision
 		//----------------------------------------------------------------
-		"VisionDaytimeRange"		"200"		// Range of vision during day light.
-		"VisionNighttimeRange"		"200"		// Range of vision at night time.
+		"VisionDaytimeRange"		"300"		// Range of vision during day light.
+		"VisionNighttimeRange"		"300"		// Range of vision at night time.
 
 		// Bots
 		//----------------------------------------------------------------
