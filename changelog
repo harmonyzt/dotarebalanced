@@ -1,18 +1,4 @@
-- Rebalanced Ancient Apparition.
-* Chilling Touch slow duration has been reduced. (0.7/0.8/0.9/1.0-->0.3/0.5/0.7/0.9)
-* Bonus attack range has been reduced by 20 at the max lvl ability.
-* Bonus attack range in talant tree has been reduced by 60. (+200-->+140)
-
-- Reworked Ogre Magi.
-* Main atribute has been changed to Strenght.
-* Base Intellingece has been reduced to 13. (15-->13)
-* Intellingece gain has been reduced to 2. (2.5-->2)
-* Fireblast stun duration has been decreased by 0.5. (1.5-->1) (Still does not pierce spell immunity)
-* Fireblast now deals physical damage. (Still does not pierce spell immunity)
-* Fireblast damage has been reduced by 50. (250-->200). Same goes for Undefined Fireblast.
-* Increased cast range of Fireblast by 25. (475-->500)
-* Cast point of Fireblast has been reduced to 0.35. (0.45-->0.35
-* Multicast ability chance has been increased by 5% for 4 multicasts in a row.
-* Undefined Fireblast cooldown has been increased by 4. (6-->10)
-
-- Fixed leveling up to 35 lvl not working.
+- Added additional 100 damage to the fountain attack damage.
+- Fixed some internal files not working right.
+- Reworked spawn rates of neutrals. (Tier 5 items drop at 30 minutes)
+- Removed back some tier 5 neutral items.
