@@ -18467,7 +18467,7 @@
 			"Ability3"		"ogre_magi_bloodlust"
 		}
 
-		"ArmorPhysical"		"4.000000"
+		"ArmorPhysical"		"2.000000"
 		"AttackCapabilities"		"DOTA_UNIT_CAP_MELEE_ATTACK"
 		"AttackDamageMin"		"54"
 		"AttackDamageMax"		"60"
@@ -18482,7 +18482,7 @@
 		}
 		"AttributePrimary"		"DOTA_ATTRIBUTE_STRENGTH"
 		"AttributeBaseStrength"		"23"
-		"AttributeStrengthGain"		"3.300000"
+		"AttributeStrengthGain"		"2.300000"
 		"AttributeBaseAgility"		"14"
 		"AttributeAgilityGain"		"1.5"
 		"AttributeBaseIntelligence"		"13"
