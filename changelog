@@ -1,3 +1,15 @@
-- Added Greater Mango back in game which now costs 3500 gold. (Skills your entire talant tree but causes you to die)
-- Fixed custom files not working with abilities/items in-game.
-- Ogre Magi strenght gain is reduced by 1. (3.5-->2.5 per lvl)
+- Added one way to the map. (See changes in-game)
+
+- Rebalanced pudge.
+* Flesh Heap cooldown has been reduced by 2 at the max level. (17-->15)
+* Damage block amount has been increased at the max level. (26-->30)
+* Flesh Heap gain range has been increaed by 50. (450-->500)
+* Meat Hook cast range now scaled with the ability level. (1300-->600/800/1000/1300)
+* Meat Hook bonus damage has been increased by 30 in talant tree (+120-->+150)
+
+- Rebalanced sniper.
+* Concussive Grenade mana cost has been increased by 30. (50-->80)
+* Shrapnel mana cost has been increased by 15. (75-->90)
+* Shrapnel movement slow has been reduced. (-12/-18/-24/-30-->-12/-18/-20/-25)
+* Bonus knockback distance in talant tree has been increased by 2. (+28-->+30)
+* Assistance projectile speed has been rescaled. (3000-->2000/3500/3000)
