@@ -9386,7 +9386,7 @@
 	}	
 
 //=================================================================================	
-// Neutral: Dark Troll
+// Neutral: Hill Troll
 //=================================================================================
 	"npc_dota_neutral_dark_troll"	
 	{
@@ -9395,7 +9395,7 @@
 		"Model"						"models/creeps/neutral_creeps/n_creep_troll_dark_a/n_creep_troll_dark_a.vmdl"	// Model.
 		"BaseClass"					"npc_dota_creep_neutral"
 		"SoundSet"					"n_creep_Ranged"
-		"Level"						"3"
+		"Level"						"5"
 		"ModelScale" 					".70"
 		"IsNeutralUnitType"			"1"
 
