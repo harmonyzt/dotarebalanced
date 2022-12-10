@@ -13507,7 +13507,7 @@
 			"02"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"hp_restore"			"250"
+				"hp_restore"			"180"
 			}
 		}
 	}
