@@ -1,0 +1,4 @@
+"addon"
+{
+    "item_greater_flask"    "Greater Flask"
+}

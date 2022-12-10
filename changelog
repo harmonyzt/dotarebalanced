@@ -1,4 +1,3 @@
-- Added additional 100 damage to the fountain attack damage.
-- Fixed some internal files not working right.
-- Reworked spawn rates of neutrals. (Tier 5 items drop at 30 minutes)
-- Removed back some tier 5 neutral items.
+- Added Greater Mango back in game which now costs 3500 gold. (Skills your entire talant tree but causes you to die)
+- Fixed custom files not working with abilities/items in-game.
+- Ogre Magi strenght gain is reduced by 1. (3.5-->2.5 per lvl)

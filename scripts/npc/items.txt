@@ -13213,12 +13213,12 @@
 		
 		// Item Info
 		//-------------------------------------------------------------------------------------------------------------
-		"ItemCost"						"0"
-		"ItemStackable"					"0"
+		"ItemCost"						"3500"
+		"ItemStackable"					"1"
 		"ItemPermanent"					"0"
 		"IsTempestDoubleClonable"		"0"
 		"ItemIsNeutralDrop"				"1"
-		"ItemPurchasable"				"0"
+		"ItemPurchasable"				"1"
 
 		"Model"							"models/props_gameplay/neutral_box.vmdl"
 	}
@@ -13484,13 +13484,13 @@
 			
 		// Item Info
 		//-------------------------------------------------------------------------------------------------------------
-		"ItemCost"						"0"
-		"ItemIsNeutralDrop"				"1"
+		"ItemCost"						"250"
+		"ItemIsNeutralDrop"				"0"
 		"ItemQuality"					"consumable"
-		"ItemPurchasable"				"0"
-		"ItemInitialCharges"			"3"
+		"ItemPurchasable"				"1"
+		"ItemInitialCharges"			"1"
 		"ItemPermanent"					"0"
-		"AbilityCooldown"				"10.0"
+		"AbilityCooldown"				"15.0"
 		"IsTempestDoubleClonable"		"0"
 
 		"Model"							"models/props_gameplay/neutral_box.vmdl"
@@ -13502,7 +13502,7 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_damage"			"20"
+				"bonus_damage"			"5"
 			}
 			"02"
 			{
