@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 "CustomHeroList"
 {
     // STRENGH
@@ -22,7 +21,6 @@
     "npc_dota_hero_ancient_apparition"  "1"
 
     "npc_dota_hero_muerta"			"0"
-=======
 "CustomHeroList"
 {
     // STRENGH
@@ -46,5 +44,4 @@
     "npc_dota_hero_ancient_apparition"  "1"
 
     "npc_dota_hero_muerta"			"0"
->>>>>>> f048427b8ac6088bd9faa408eaaadd09acb11d98
 }
