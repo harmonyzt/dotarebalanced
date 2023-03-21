@@ -16,16 +16,13 @@
 			map = "dota"
 		},
 	]
-	HideInTools = false
+	HideInTools = true
 	IsTemplate = false
 	DefaultMap = ""
 	Default_Keys = [  ]
 	DisableIK = false
 	EnablePickRules = false
 	EventGame = false
-	hero_picker = 
-	{
-	}
 	ForceDefaultGuide = false
 	MinimalPrecache = false
 	MinPlayers = 1
