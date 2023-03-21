@@ -49355,11 +49355,11 @@
 		
 		// Time		
 		//-------------------------------------------------------------------------------------------------------------
-		"AbilityCooldown"				"16.0"
+		"AbilityCooldown"				"15.0"
 
 		// Cost
 		//-------------------------------------------------------------------------------------------------------------
-		"AbilityManaCost"				"75"
+		"AbilityManaCost"				"110 100 80 70"
 
 		// Special
 		//-------------------------------------------------------------------------------------------------------------
@@ -49414,11 +49414,11 @@
 
 		// Cost
 		//-------------------------------------------------------------------------------------------------------------
-		"AbilityManaCost"				"50 70 90 110"
+		"AbilityManaCost"				"50 70 90 100"
 		
 		// Cast Range
 		//-------------------------------------------------------------------------------------------------------------
-		"AbilityCastRange"				"900"
+		"AbilityCastRange"				"600 650 700 800"
 
 		// Special
 		//-------------------------------------------------------------------------------------------------------------
@@ -49429,9 +49429,9 @@
 			"attack_speed_bonus"		
 			{
 				"value" 				"50 60 70 80"
-				"special_bonus_unique_arc_warden_3" 		"+40"
+				"special_bonus_unique_arc_warden_3" 		"+50"
 			}
-			"evasion_chance"			"100"
+			"evasion_chance"			"90"
 			"shard_magic_resist"
 			{
 
@@ -49488,7 +49488,7 @@
 				"special_bonus_unique_arc_warden"		"+125"
 			}
 			"think_interval"							"0.2"
-			"wraith_vision_radius"						"300"
+			"wraith_vision_radius"						"350"
 			"wraith_vision_duration"					"3.34"
 			"ministun_duration"							"0.4 0.5 0.6 0.7"
 			"move_speed_slow_pct"						"100"
@@ -49538,15 +49538,15 @@
 			"duration"
 			{
 				"value"				"18 22 26"
-				"special_bonus_unique_arc_warden_6"		"+12"
+				"special_bonus_unique_arc_warden_6"		"+14"
 			}
-			"bounty"				"180 240 300"
+			"bounty"				"150 250 350"
 			"penalty_distance"				"2000"
-			"attack_damage_penalty"				"50"
+			"attack_damage_penalty"				"30"
 			"tempest_double_cooldown_reduction"
 			{
 				"value"							"0"
-				"special_bonus_unique_arc_warden_7"		"+40"
+				"special_bonus_unique_arc_warden_7"		"+15"
 			}
 		}
 	}
