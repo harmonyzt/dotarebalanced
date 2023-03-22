@@ -6897,7 +6897,7 @@
 		
 		// Item Info
 		//-------------------------------------------------------------------------------------------------------------
-		"ItemCost"						"1450"	
+		"ItemCost"						"1150"	
 		"ItemShopTags"					""
 		
 		// Recipe
@@ -6923,12 +6923,12 @@
 
 		// Stats		
 		//-------------------------------------------------------------------------------------------------------------
-		"AbilityCooldown"				"90"
-		"AbilityManaCost"				"50"
+		"AbilityCooldown"				"60"
+		"AbilityManaCost"				"10"
 
 		// Item Info
 		//-------------------------------------------------------------------------------------------------------------
-		"ItemCost"						"4050"
+		"ItemCost"						"3050"
 		"ItemShopTags"					"str;damage;hard_to_tag"
 		"ItemQuality"					"epic"
 		"ItemAliases"					"bkb;black king bar"
@@ -6943,17 +6943,17 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_strength"		"10"
+				"bonus_strength"		"5"
 			}
 			"02"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_damage"			"24"
+				"bonus_damage"			"25"
 			}
 			"03"
 			{
 				"var_type"				"FIELD_FLOAT"
-				"duration"				"9.0 8.0 7.0 6.0"
+				"duration"				"6.0 5.0 4.0 3.0"
 			}
 			"04"
 			{
@@ -7391,13 +7391,13 @@
 		
 		// Time		
 		//-------------------------------------------------------------------------------------------------------------
-		"AbilityChannelTime"			"2.5"
+		"AbilityChannelTime"			"2.0"
 
 		// Casting
 		//-------------------------------------------------------------------------------------------------------------
-		"AbilityCastRange"				"600"
-		"AbilityCooldown"				"24"
-		"AbilityManaCost"				"100"
+		"AbilityCastRange"				"500"
+		"AbilityCooldown"				"30"
+		"AbilityManaCost"				"120"
 
 
 		// Item Info
@@ -7417,7 +7417,7 @@
 				"bonus_mana_regen"		"2.5"
 				"burn_dps_buildings"		"60"
 				"burn_dps_units"		"60"
-				"burn_duration"		"6"
+				"burn_duration"		"5"
 				"stun_duration"		"1.25"
 				"burn_interval"				"1.0"
 				"land_time"				".5"
@@ -7498,7 +7498,7 @@
 			"03"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_regen"			"6"
+				"bonus_regen"			"5"
 			}
 			"04"
 			{
